@@ -1,0 +1,10 @@
+Column Name,Data Type,Non-Null Count,Unique Values
+Transaction ID,int64,240,240
+Date,object,240,240
+Product Category,object,240,6
+Product Name,object,240,232
+Units Sold,int64,240,7
+Unit Price,float64,240,117
+Total Revenue,float64,240,173
+Region,object,240,3
+Payment Method,object,240,3
